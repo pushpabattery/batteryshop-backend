@@ -1,1 +1,0 @@
-// Sale routes placeholder
